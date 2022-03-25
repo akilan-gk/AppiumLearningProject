@@ -1,0 +1,13 @@
+Test Scenario:
+
+1. Fill the form details and verify toast error messages displayed appropriately for wrong inputs
+
+2. Shop the items in the app by scrolling to specific product and add it to the cart
+
+3. Validate if the items selected in the page 2 are matching with the items displayed in the checkout page
+
+4. Validate the total amount displayed in the checkout page matches with sum of product amounts selected for shopping
+
+5. Validate gestures working for links (long press) and navigate to Web view
+
+6. Verify if user can do operations on Web View and can navigate back.
